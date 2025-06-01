@@ -28,7 +28,7 @@ Meu objetivo com este portfólio é evoluir como Analista de Qualidade, demonstr
 ## Como visualizar
 
 Este portfólio está publicado no GitHub Pages:  
-➡️ [https://seuusuario.github.io/portfolio](https://karen0101sousa.github.io/portfolio/)  
+➡️ [Portfolio do Meu Usuário](https://karen0101sousa.github.io/portfolio/)  
 
 ## Contato
 
